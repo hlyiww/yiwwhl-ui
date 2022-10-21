@@ -6,7 +6,7 @@ import DemoBlock from "vitepress-theme-demoblock/components/DemoBlock.vue";
 
 export default {
   ...DefaultTheme,
-  enhanceApp({ app }) {
+  enhanceApp({ app }: any) {
     // register global components
     app.component("y-button", Button);
     app.component("Demo", Demo);

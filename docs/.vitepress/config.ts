@@ -30,4 +30,5 @@ export default {
       md.use(demoBlockPlugin);
     },
   },
+  appearance: false,
 };
