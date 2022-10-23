@@ -8,7 +8,7 @@ export default {
   ...DefaultTheme,
   enhanceApp({ app }: any) {
     // register global components
-    app.component("y-button", Button);
+    app.component(Button.name, Button);
     app.component("Demo", Demo);
     app.component("DemoBlock", DemoBlock);
   },
