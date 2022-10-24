@@ -8,4 +8,7 @@
   // 导入 type 相关的样式
   @include button-mixin.button-variant(button-type.$type);
   @include button-mixin.button-variant(button-type.$pseudo, true);
+
+  // 导入 size 相关的样式
+  @include button-mixin.button-variant(button-type.$size)
 }
