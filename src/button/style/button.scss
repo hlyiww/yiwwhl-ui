@@ -10,5 +10,5 @@
   @include button-mixin.button-variant(button-type.$pseudo, true);
 
   // 导入 size 相关的样式
-  @include button-mixin.button-variant(button-type.$size)
+  @include button-mixin.button-variant(button-type.$size);
 }

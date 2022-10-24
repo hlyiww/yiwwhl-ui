@@ -28,4 +28,8 @@
   &[disabled] {
     @apply cursor-not-allowed
   }
+
+  &.s-btn--block {
+    @apply block w-full
+  }
 }
