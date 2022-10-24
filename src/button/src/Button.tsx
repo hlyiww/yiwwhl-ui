@@ -9,7 +9,7 @@ export default defineComponent({
     return () => {
       const defaultSlot = slots.default ? slots.default() : "按钮";
       return (
-        <button class={`y-btn y-btn--${type.value}`}>{defaultSlot}</button>
+        <button class={`s-btn s-btn--${type.value}`}>{defaultSlot}</button>
       );
     };
   },
