@@ -67,7 +67,7 @@ const buildSingle = async name => {
 const createPackageJson = name => {
   const fileStr = `{
       "name": "${name ? name : "yiwwhl-ui"}",
-      "version": "0.0.0",
+      "version": "0.0.1",
       "main": "${name ? "index.umd.js" : "yiwwhl-ui.umd.js"}",
       "module": "${name ? "index.mjs" : "yiwwhl-ui.mjs"}",
       "author": "yiwwhl",

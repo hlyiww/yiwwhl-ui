@@ -1,6 +1,6 @@
 {
       "name": "yiwwhl-ui",
-      "version": "0.0.0",
+      "version": "0.0.1",
       "main": "yiwwhl-ui.umd.js",
       "module": "yiwwhl-ui.mjs",
       "author": "yiwwhl",

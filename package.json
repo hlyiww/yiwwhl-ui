@@ -15,7 +15,8 @@
     "build:components": "node ./scripts/build.js"
   },
   "dependencies": {
-    "vue": "^3.2.37"
+    "vue": "^3.2.37",
+    "yiwwhl-ui": "^0.0.1"
   },
   "devDependencies": {
     "@testing-library/vue": "^6.6.1",

@@ -4635,6 +4635,11 @@
   "resolved" "https://registry.npmjs.org/yargs-parser/-/yargs-parser-20.2.9.tgz"
   "version" "20.2.9"
 
+"yiwwhl-ui@^0.0.1":
+  "integrity" "sha512-2l53/UR/8uRAEz5AvsNCGClfLm1mCGZuaGFd7dTgol4zwXfh1uk4F0V220xxggZqQiZNEfbWfaajgjSWcrgRTg=="
+  "resolved" "https://registry.npmjs.org/yiwwhl-ui/-/yiwwhl-ui-0.0.1.tgz"
+  "version" "0.0.1"
+
 "yocto-queue@^0.1.0":
   "integrity" "sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q=="
   "resolved" "https://registry.npmjs.org/yocto-queue/-/yocto-queue-0.1.0.tgz"
