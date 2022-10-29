@@ -1,4 +1,5 @@
 import * as inquirer from "inquirer";
+import createComponent from "../shared/create-component";
 import { red } from "kolorist";
 
 const CHOICES_MAP = {
@@ -72,7 +73,4 @@ export async function onCreate(args = { type: "" }) {
   } catch (error) {
     console.log(red(error));
   }
-}
-function createComponent(info) {
-  console.log(info);
 }
